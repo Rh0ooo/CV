@@ -1,2 +1,2 @@
 # CV
-CV de Romain Galura - Étudiant lycée Turgot BTS informatique Cybersécurité
+CV de Romain Galura - Étudiant Lycée Turgot BTS informatique Cybersécurité
