@@ -9,3 +9,4 @@ CV de Romain Galura - Étudiant Lycée Turgot BTS informatique Cybersécurité
 - C++
 - Java
 - Visual Basic
+- SQL
