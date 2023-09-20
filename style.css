@@ -1,3 +1,22 @@
 body {
-  background-color:red;
+	text-align:center;
+}
+
+menu{
+	
+}
+
+.cases{
+	display: inline;
+    margin-right: 10px;
+	font-size:20px;
+	background-color:blue;
+	padding:10px;
+}
+
+.E1, .E2, .E3, .E4{
+	 letter-spacing: 2px;
+	 background-color:red;
+	 text-align:center;
+	 padding:20px;
 }
