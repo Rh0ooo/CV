@@ -25,7 +25,7 @@ CV de Romain Galura - Étudiant Lycée Turgot BTS informatique Cybersécurité
 - GitHub
 - Notepad++
 - VirtualBox
-- VM Ware
+- VMware
 - Looping
 - Trello
 - Notion
