@@ -18,7 +18,7 @@ CV de Romain Galura - Étudiant Lycée Turgot BTS informatique Cybersécurité
 - HTML
 - CSS
 
-###Outils
+### Outils
 - Visual Studio
 - Cisco Packet Tracer
 - Eclipse
