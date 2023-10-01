@@ -1,24 +1,9 @@
-body {
-	text-align:center;
+.info{
+	text-align: center;
 }
 
-menu{
-	
-}
-
-.cases{
-	display: inline;
-    margin-right: 10px;
-	font-size:20px;
-	padding:10px;
-}
-
-.E1, .E2, .E3, .E4{
-	 letter-spacing: 2px;
-	 text-align:center;
-	 padding:20px;
-}
-
-a :hover{
-	color:black;
+.logo_footer{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 }
