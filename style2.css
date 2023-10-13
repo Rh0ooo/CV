@@ -3,6 +3,8 @@ ul {
 }
 
 .fond_dev{
+    height: 540px;
+    width: 400px;
     filter: grayscale(75%);
     margin-left: 80px;
 }
@@ -25,6 +27,8 @@ ul {
 }
 
 .fond_outil{
+    height: 540px;
+    width: 400px;
     margin-right:145px;
     margin-left: 70px;
     filter: grayscale(75%);
@@ -39,6 +43,6 @@ ul {
     margin-right: 70px;
 }
 .fond_travail{
-    filter: grayscale(75%);
+    width: 40%;
 }
 
