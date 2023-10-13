@@ -1,0 +1,44 @@
+ul {
+    list-style-type : none;
+}
+
+.fond_dev{
+    filter: grayscale(75%);
+    margin-left: 80px;
+}
+
+.block{
+    display: flex;
+}
+
+.element1{
+    text-align: center;
+}
+
+.block1{
+    margin-left: 555px;
+    margin-right: 70px;
+}
+    
+.blockB{
+    display: flex;
+}
+
+.fond_outil{
+    margin-right:145px;
+    margin-left: 70px;
+    filter: grayscale(75%);
+}
+
+.blockC{
+    display: flex;
+}
+
+.block3{
+    margin-left: 500px;
+    margin-right: 70px;
+}
+.fond_travail{
+    filter: grayscale(75%);
+}
+
