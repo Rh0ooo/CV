@@ -2,47 +2,50 @@ ul {
     list-style-type : none;
 }
 
-.fond_dev{
-    height: 540px;
-    width: 400px;
-    filter: grayscale(75%);
-    margin-left: 80px;
-}
 
-.block{
-    display: flex;
-}
 
-.element1{
-    text-align: center;
-}
+@media screen and (min-width:400px){
+    .body{
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
 
-.block1{
-    margin-left: 555px;
-    margin-right: 70px;
-}
+    .logo{
+        width: 2em;
+    }
+
+    /* .fond_dev{
+        height: 540px;
+        width: 400px;
+        filter: grayscale(75%);
+        margin-left: 80px;
+    } */
     
-.blockB{
-    display: flex;
+    .block{
+        display: flex;
+        margin-left: 40%;
+    }
+
+    /* .block img{
+        margin-left: 25%;
+        max-width: 100%;
+        object-fit: cover;
+    } */
+
+    /* .blockB{
+        display: flex;
+    } */
+
+    .element1{
+        text-align: center;
+    }
+
+    
 }
 
-.fond_outil{
-    height: 540px;
-    width: 400px;
-    margin-right:145px;
-    margin-left: 70px;
-    filter: grayscale(75%);
-}
-
-.blockC{
-    display: flex;
-}
-
-.block3{
-    margin-left: 500px;
-    margin-right: 70px;
-}
-.fond_travail{
-    width: 40%;
-}
-
+/* @media screen and (max-width:1280px){
+    .fond_dev{
+        visibility: hidden;
+    }
+} */
