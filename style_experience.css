@@ -1,0 +1,39 @@
+.element1 h1{
+    text-align: center;
+}
+
+.img1{
+    text-align: center;
+    position: relative;
+}
+
+.img_bowling{
+    filter: blur(4px);
+}
+
+.text-over{
+    position: absolute;
+    width:50%;
+    left: 50%;
+    top: 52%;
+    transform: translate(-50%, -50%);
+    font-size: 550%;
+    color: #E6DDDD;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    line-height: 150%;
+} 
+
+@media screen and (max-width:1050px){
+    .text-over{
+        position: absolute;
+        left: 50%;
+        top: 52%;
+        transform: translate(-50%, -50%);
+        font-size: 250%;
+        color: #E6DDDD;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        line-height: 150%;
+    } 
+}
